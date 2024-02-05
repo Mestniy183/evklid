@@ -595,5 +595,5 @@ fruits.forEach((elem.map) => {
   
 //}
 
-let items = ['item 1', 'item 2','item3']
-items.forEach = document.innerHTML
+//let items = ['item 1', 'item 2','item3']
+//items.forEach = document.innerHTML
